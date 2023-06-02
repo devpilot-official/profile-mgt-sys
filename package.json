@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@hapi/joi": "^15.1.1",
-    "@random-guys/bucket": "^0.7.0",
+    "@random-guys/bucket": "^0.10.1",
     "@random-guys/eventbus": "^2.0.1",
     "@random-guys/iris": "^1.1.0",
     "@random-guys/pro-mails": "^0.2.2",
