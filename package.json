@@ -54,7 +54,7 @@
     "date-fns": "^1.30.1",
     "express": "^4.17.1",
     "inversify": "^5.0.1",
-    "inversify-express-utils": "^6.3.2",
+    "inversify-express-utils": "^6.4.7",
     "ioredis": "^4.14.1",
     "lodash": "^4.17.15",
     "module-alias": "^2.2.0",
